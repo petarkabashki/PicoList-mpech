@@ -1,0 +1,9 @@
+bin/picolisp
+bin/httpGate
+bin/ssl
+# db
+# lib/sysdefs
+*.bc
+*.s
+*.so
+.vscode/*
